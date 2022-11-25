@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/simpleshaikh1" target="blank"><img src="https://img.shields.io/twitter/follow/simpleshaikh1?logo=twitter&style=for-the-badge" alt="simpleshaikh1" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs, ReactNative,**
+- 🌱 I am a backend developer, with the knowledge of JavaScript, Node and reactjs**
 
 - 🤝 I’m looking for help with **Creative Projects**
 
