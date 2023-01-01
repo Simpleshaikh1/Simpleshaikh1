@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/simpleshaikh1" target="blank"><img src="https://img.shields.io/twitter/follow/simpleshaikh1?logo=twitter&style=for-the-badge" alt="simpleshaikh1" /></a> </p>
 
-- 🌱 I am a backend developer, with the knowledge of JavaScript, Node and reactjs**
+- 🌱 I am a backend developer, with the knowledge of JavaScript, TypesScript, Node, Express, MongoDB, graphQl, Reactjs, SASS.**
 
 - 🤝 I’m looking for help with **Creative Projects**
 
 - 👨‍💻 All of my projects are available at [simpleshaikh.com.ng](simpleshaikh.com.ng)
 
-- 💬 Ask me about **Javascript, React, HTML, CSS**
+- 💬 Ask me about **Javascript, Typescript, Node, Express, React, HTML, CSS**
 
 - 📫 How to reach me **simpleshaikh2@gmail.com**
 
-- ⚡ Fun fact **Karate Student.I love to swim.**
+- ⚡ Fun fact **Karate Student and I love to swim.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
