@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Toyyib Bolaji</h1>
-<h3 align="center">A passionate Backend developer from Nigeria</h3>
+<h3 align="center">A passionate Full-Stack developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simpleshaikh1&label=Profile%20views&color=0e75b6&style=flat" alt="simpleshaikh1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/simpleshaikh1" target="blank"><img src="https://img.shields.io/twitter/follow/simpleshaikh1?logo=twitter&style=for-the-badge" alt="simpleshaikh1" /></a> </p>
 
-- 🌱 I am a backend developer, with the knowledge of JavaScript, TypesScript, Node, Express, MongoDB, graphQl, Reactjs, SASS.**
+- 🌱 I am a Full-Stack developer, with the knowledge of JavaScript, TypesScript, Node, Express, MongoDB, graphQl, Reactjs, Ruby on Rails, SASS.**
 
 - 🤝 I’m looking for help with **Creative Projects**
 
