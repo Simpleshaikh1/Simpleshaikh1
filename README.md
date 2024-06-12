@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Creative Projects**
 
-- 👨‍💻 All of my projects are available at [Toyyib_Bolaji]([simpleshaikh.com.ng](https://toyyib-bolaji.netlify.app/))
+- 👨‍💻 All of my projects are available at [Toyyib_Bolaji](https://toyyib-bolaji.netlify.app/)
 
 - 💬 Ask me about **Javascript, Typescript, Node, Express, React, HTML, CSS**
 
