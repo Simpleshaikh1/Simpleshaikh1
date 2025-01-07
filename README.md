@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/simpleshaikh1" target="blank"><img src="https://img.shields.io/twitter/follow/simpleshaikh1?logo=twitter&style=for-the-badge" alt="simpleshaikh1" /></a> </p>
 
-- 🌱 I am a Full-Stack developer, with the knowledge of JavaScript, TypesScript, Node, Express, MongoDB, graphQl, Reactjs, Ruby on Rails, SASS.**
+- 🌱 I am a Full-Stack developer, with the knowledge of JavaScript, Golang, TypesScript, Node, MongoDB, postgreSQL, Reactjs, Ruby on Rails, SASS.**
 
 - 🤝 I’m looking for help with **Creative Projects**
 
 - 👨‍💻 All of my projects are available at [Toyyib_Bolaji](https://toyyib-bolaji.netlify.app/)
 
-- 💬 Ask me about **Javascript, Typescript, Node, Express, React, HTML, CSS**
+- 💬 Ask me about **Javascript, Golang, Typescript, Node, Express, React, Next**
 
 - 📫 How to reach me **simpleshaikh2@gmail.com**
 
