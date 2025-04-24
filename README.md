@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Javascript, Golang, Typescript, Node, Express, React, Next**
 
-- 📫 How to reach me **simpleshaikh2@gmail.com**
+- 📫 How to reach me **toyyibabayomi28@gmail.com**
 
 - ⚡ Fun fact **Karate Student and I love to swim.**
 
